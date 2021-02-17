@@ -1,0 +1,26 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeruizmx/curso-asincronismo-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Andres Ruiz <andres87aldos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aeruizmx/curso-asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/aeruizmx/curso-asincronismo-js#readme"
+}
